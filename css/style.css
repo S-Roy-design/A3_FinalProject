@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(247, 247, 247);
+    color:rgb(14, 40, 145);
+
+    font-family: 'Martel', serif;
+}
+
+#content {
+    padding-bottom: 56px;
+}
+
+
